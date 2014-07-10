@@ -1,0 +1,177 @@
+File open success.
+1 150 1
+1 130 2
+2 145 0
+1 50 2.5
+2 75 0
+2 180 0
+1 50 4
+1 30 5
+1 40 5.5
+3 30 0
+2 50 0
+2 30 0
+1 50 6
+1 265 10
+2 60 0
+3 50 0
+2 100 0
+2 70 0
+2 175 0
+1 40 14
+1 75 15
+2 110 0
+1 30 16
+1 40 18
+
+Receipt Record
+rsp: r
+quantity: 150
+price: 1
+
+Receipt Record
+rsp: r
+quantity: 130
+price: 2
+
+Sales Record
+rsp: s
+quantity: 145
+
+Receipt Record
+rsp: r
+quantity: 50
+price: 2.5
+
+Sales Record
+rsp: s
+quantity: 75
+
+Sales Record
+rsp: s
+quantity: 180
+
+Receipt Record
+rsp: r
+quantity: 50
+price: 4
+
+Receipt Record
+rsp: r
+quantity: 30
+price: 5
+
+Receipt Record
+rsp: r
+quantity: 40
+price: 5.5
+
+Promo Record
+rsp: p
+discount: 30
+
+Sales Record
+rsp: s
+quantity: 50
+
+Sales Record
+rsp: s
+quantity: 30
+
+Receipt Record
+rsp: r
+quantity: 50
+price: 6
+
+Receipt Record
+rsp: r
+quantity: 265
+price: 10
+
+Sales Record
+rsp: s
+quantity: 60
+
+Promo Record
+rsp: p
+discount: 50
+
+Sales Record
+rsp: s
+quantity: 100
+
+Sales Record
+rsp: s
+quantity: 70
+
+Sales Record
+rsp: s
+quantity: 175
+
+Receipt Record
+rsp: r
+quantity: 40
+price: 14
+
+Receipt Record
+rsp: r
+quantity: 75
+price: 15
+
+Sales Record
+rsp: s
+quantity: 110
+
+Receipt Record
+rsp: r
+quantity: 30
+price: 16
+
+Receipt Record
+rsp: r
+quantity: 40
+price: 18
+
+Sales: $188.5
+Sales: $6.5
+
+Sales: $182
+Sales: $156
+
+Sales: $162.5
+
+Sales: $260
+
+Sales: $130
+
+Promo: 30%
+
+Sales: $19.5
+
+Sales: $93.6
+Sales: $23.4
+
+Sales: $78
+Sales: $234
+
+Promo: 50%
+
+Sales: $650
+Sales: $455
+Sales: $97.5
+
+Sales: $364
+
+Sales: $731.25
+
+Sales: $312
+
+Sales: $175.5
+Sales: $292.5
+
+Total Sales: $4611.75
+Total Costs: $6720
+Total Remaining Inventory: 25
+
+Process returned 0 (0x0)   execution time : 0.296 s
+Press any key to continue.

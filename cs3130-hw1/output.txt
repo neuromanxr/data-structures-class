@@ -1,0 +1,67 @@
+Kelvin Lee 1001
+Previous Balance: 200.50
+Trans #: 2111 Computers  2000
+Trans #: 2112 Payment:    500
+Trans #: 2113 Tables    400.5
+Trans #: 2114 Routers     402
+Trans #: 2115 Payment:  600.25
+Balance Due: 1902.75
+
+Bob Jones 1002
+Previous Balance: 500.30
+Trans #: 2116 Computers  3000
+Trans #: 2117 Payment:    500
+Trans #: 2118 Tables      801
+Trans #: 2119 Routers     402
+Trans #: 2120 Payment:  600.25
+Balance Due: 3603.05
+
+John Williams 1003
+Previous Balance: 100.32
+Trans #: 2121 Computers  4000
+Trans #: 2122 Payment:    500
+Trans #: 2123 Tables    1201.5
+Trans #: 2124 Routers   100.5
+Trans #: 2125 Payment:  600.25
+Balance Due: 4302.07
+
+Steven Larry 1004
+Previous Balance: 310.78
+Trans #: 2126 Computers  3000
+Trans #: 2127 Payment:    500
+Trans #: 2128 Tables    1401.75
+Trans #: 2129 Routers     201
+Trans #: 2130 Payment:  600.25
+Balance Due: 3813.28
+
+Larry Page 1005
+Previous Balance: 623.12
+Trans #: 2131 Computers  3000
+Trans #: 2132 Payment:    500
+Trans #: 2133 Tables    1001.25
+Trans #: 2134 Routers     402
+Trans #: 2135 Payment:  600.25
+Balance Due: 3926.12
+
+Tim Cook 1006
+Previous Balance: 751.33
+Trans #: 2136 Computers  5000
+Trans #: 2137 Payment:    500
+Trans #: 2138 Tables    1401.75
+Trans #: 2139 Routers   904.5
+Trans #: 2140 Payment:  600.25
+Balance Due: 6957.33
+
+Peter Thiel 1007
+Previous Balance: 472.31
+Trans #: 2141 Computers  2000
+Trans #: 2142 Payment:    500
+Trans #: 2143 Tables    1201.5
+Trans #: 2144 Routers     201
+Trans #: 2145 Payment:  600.25
+Balance Due: 2774.56
+
+Current total balance: 27279.2
+
+Process returned 0 (0x0)   execution time : 0.408 s
+Press any key to continue.

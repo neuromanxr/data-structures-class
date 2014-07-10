@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404357729 source:c:\temp\beginning_programming-cpp\cs3130-hw5\main.cpp
+	<iostream>
+	<vector>
+

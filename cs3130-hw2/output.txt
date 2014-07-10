@@ -1,0 +1,151 @@
+File open successful
+Shipment read in: NY 23 14 1
+In warehouse: NY 23 14 1
+Shipment read in: NY 0 0 15
+In warehouse: NY 23 14 16
+Order read in: NY 12 24 8
+Item 1: Order filled. Price of order: $22
+Looking through warehouse in: NY
+Item 2: Order Unfilled
+Looking through warehouse in: LA
+Item 2: Order Unfilled
+Looking through warehouse in: Miami
+Item 2: Order Unfilled
+Looking through warehouse in: Houston
+Item 2: Order Unfilled
+Looking through warehouse in: Chicago
+Item 2: Order Unfilled
+Item 3: Order filled. Price of order: $68
+Order read in: NY 15 0 0
+Looking through warehouse in: NY
+Item 1: Order Unfilled
+Looking through warehouse in: LA
+Item 1: Order Unfilled
+Looking through warehouse in: Miami
+Item 1: Order Unfilled
+Looking through warehouse in: Houston
+Item 1: Order Unfilled
+Looking through warehouse in: Chicago
+Item 1: Order Unfilled
+Item 2: Order filled. Price of order: $98
+Item 3: Order filled. Price of order: $68
+Order read in: NY 15 15 25
+Looking through warehouse in: NY
+Item 1: Order Unfilled
+Looking through warehouse in: LA
+Item 1: Order Unfilled
+Looking through warehouse in: Miami
+Item 1: Order Unfilled
+Looking through warehouse in: Houston
+Item 1: Order Unfilled
+Looking through warehouse in: Chicago
+Item 1: Order Unfilled
+Looking through warehouse in: NY
+Item 2: Order Unfilled
+Looking through warehouse in: LA
+Item 2: Order Unfilled
+Looking through warehouse in: Miami
+Item 2: Order Unfilled
+Looking through warehouse in: Houston
+Item 2: Order Unfilled
+Looking through warehouse in: Chicago
+Item 2: Order Unfilled
+Looking through warehouse in: NY
+Item 3: Order Unfilled
+Looking through warehouse in: LA
+Item 3: Order Unfilled
+Looking through warehouse in: Miami
+Item 3: Order Unfilled
+Looking through warehouse in: Houston
+Item 3: Order Unfilled
+Looking through warehouse in: Chicago
+Item 3: Order Unfilled
+Shipment read in: NY 20 15 20
+In warehouse: NY 31 29 28
+Shipment read in: LA 40 13 17
+In warehouse: LA 40 13 17
+Order read in: LA 15 10 15
+Item 1: Order filled. Price of order: $50
+Item 2: Order filled. Price of order: $21
+Item 3: Order filled. Price of order: $17
+Shipment read in: LA 10 20 10
+In warehouse: LA 35 23 12
+Shipment read in: Miami 25 25 25
+In warehouse: Miami 25 25 25
+Shipment read in: Miami 13 17 21
+In warehouse: Miami 38 42 46
+Shipment read in: Houston 100 30 10
+In warehouse: Houston 100 30 10
+Order read in: Houston 75 45 10
+Item 1: Order filled. Price of order: $50
+Looking through warehouse in: NY
+Item 2: Order Unfilled
+Looking through warehouse in: LA
+Item 2: Order Unfilled
+Looking through warehouse in: Miami
+Item 2: Order Unfilled
+Looking through warehouse in: Houston
+Item 2: Order Unfilled
+Looking through warehouse in: Chicago
+Item 2: Order Unfilled
+Looking through warehouse in: NY
+Item 3: Order filled.
+Looking through warehouse in: LA
+Item 3: Order filled.
+Looking through warehouse in: Miami
+Item 3: Order filled.
+Looking through warehouse in: Houston
+Item 3: Order Unfilled
+Looking through warehouse in: Chicago
+Item 3: Order Unfilled
+Shipment read in: Houston 0 30 40
+In warehouse: Houston 25 60 50
+Order read in: Houston 10 20 10
+Item 1: Order filled. Price of order: $30
+Item 2: Order filled. Price of order: $280
+Item 3: Order filled. Price of order: $340
+Shipment read in: Chicago 42 23 19
+In warehouse: Chicago 42 23 19
+Order read in: Chicago 20 15 15
+Item 1: Order filled. Price of order: $44
+Item 2: Order filled. Price of order: $56
+Item 3: Order filled. Price of order: $34
+Order read in: Chicago 75 30 40
+Looking through warehouse in: NY
+Item 1: Order Unfilled
+Looking through warehouse in: LA
+Item 1: Order Unfilled
+Looking through warehouse in: Miami
+Item 1: Order Unfilled
+Looking through warehouse in: Houston
+Item 1: Order Unfilled
+Looking through warehouse in: Chicago
+Item 1: Order Unfilled
+Looking through warehouse in: NY
+Item 2: Order Unfilled
+Looking through warehouse in: LA
+Item 2: Order Unfilled
+Looking through warehouse in: Miami
+Item 2: Order filled.
+Looking through warehouse in: Houston
+Item 2: Order filled.
+Looking through warehouse in: Chicago
+Item 2: Order Unfilled
+Looking through warehouse in: NY
+Item 3: Order Unfilled
+Looking through warehouse in: LA
+Item 3: Order Unfilled
+Looking through warehouse in: Miami
+Item 3: Order filled.
+Looking through warehouse in: Houston
+Item 3: Order Unfilled
+Looking through warehouse in: Chicago
+Item 3: Order Unfilled
+NY 31 29 28
+LA 35 23 12
+Miami 38 42 46
+Houston 15 40 40
+Chicago 22 8 4
+
+Process returned 0 (0x0)   execution time : 0.347 s
+Press any key to continue.

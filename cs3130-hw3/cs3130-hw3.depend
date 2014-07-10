@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1402250468 source:c:\temp\beginning_programming-cpp\cs3130-hw3\main.cpp
+	<iostream>
+	<fstream>
+

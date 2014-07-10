@@ -1,0 +1,180 @@
+Printing the tree in order
+Before adding numbers
+The tree is empty.
+
+Printing the tree in pre-order
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Printing the tree in order
+After adding numbers
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Printing the tree in post-order
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+Child Count: 19
+All Nodes Count: 20
+
+The root node with key 1 was deleted. The new root contains key 2
+The node containing key 10 was removed.
+The node containing key 11 was removed.
+The node containing key 5 was removed.
+The node containing key 3 was removed.
+The root key containing key 2 was overwritten with key 3
+
+Printing the tree in pre-order
+3 0 4 6 7 8 9 12 10 13 14 15 16 17 18 19 20 21
+
+Printing the tree in order
+After adding numbers
+0 3 4 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21
+
+Printing the tree in post-order
+0 10 21 20 19 18 17 16 15 14 13 12 9 8 7 6 4 3
+Child Count: 17
+All Nodes Count: 18
+
+Printing the tree in pre-order
+3 1 5
+
+Printing the tree in order
+After adding numbers
+1 3 5
+
+Printing the tree in post-order
+1 5 3
+Child Count: 2
+All Nodes Count: 3
+
+The node containing key 5 was removed.
+The root key containing key 3 was overwritten with key 5
+The node containing key 1 was removed.
+
+Printing the tree in pre-order
+5
+
+Printing the tree in order
+After adding numbers
+5
+
+Printing the tree in post-order
+5
+Child Count: 0
+All Nodes Count: 1
+
+Printing the tree in pre-order
+The tree is empty.
+
+
+Printing the tree in order
+After adding numbers
+The tree is empty.
+
+
+Printing the tree in post-order
+The tree is empty.
+
+Child Count: 0
+All Nodes Count: 0
+
+The tree is empty/nThe node containing key 20 was removed.
+The node containing key 10 was removed.
+The node containing key 5 was removed.
+The key 15 was not found in tree.
+
+Printing the tree in pre-order
+The tree is empty.
+
+
+Printing the tree in order
+After adding numbers
+The tree is empty.
+
+
+Printing the tree in post-order
+The tree is empty.
+
+Child Count: 0
+All Nodes Count: 0
+
+Printing the tree in pre-order
+2
+
+Printing the tree in order
+After adding numbers
+2
+
+Printing the tree in post-order
+2
+Child Count: 0
+All Nodes Count: 1
+
+
+Printing the tree in pre-order
+The tree is empty.
+
+
+Printing the tree in order
+After adding numbers
+The tree is empty.
+
+
+Printing the tree in post-order
+The tree is empty.
+
+Child Count: 0
+All Nodes Count: 0
+
+Printing the tree in pre-order
+11 8 25 12 15 75 37 32 60 45 50 67 90 97 95
+
+Printing the tree in order
+After adding numbers
+8 11 12 15 25 32 37 45 50 60 67 75 90 95 97
+
+Printing the tree in post-order
+8 15 12 32 50 45 67 60 37 95 97 90 75 25 11
+Child Count: 14
+All Nodes Count: 15
+
+The node containing key 45 was removed.
+The node containing key 15 was removed.
+
+Printing the tree in pre-order
+11 8 25 12 75 45 32 40 60 50 67 90 97 95 99
+
+Printing the tree in order
+After adding numbers
+8 11 12 25 32 40 45 50 60 67 75 90 95 97 99
+
+Printing the tree in post-order
+8 12 40 32 50 67 60 45 95 99 97 90 75 25 11
+Child Count: 14
+All Nodes Count: 15
+
+Printing the tree in pre-order
+50 40 30 20 10 60 70 80 90
+
+Printing the tree in order
+After adding numbers
+10 20 30 40 50 60 70 80 90
+
+Printing the tree in post-order
+10 20 30 40 90 80 70 60 50
+Child Count: 8
+All Nodes Count: 9
+
+Printing the tree in pre-order
+30 20 10 40 50
+
+Printing the tree in order
+After adding numbers
+10 20 30 40 50
+
+Printing the tree in post-order
+10 20 50 40 30
+Child Count: 4
+All Nodes Count: 5
+
+
+Process returned 0 (0x0)   execution time : 0.323 s
+Press any key to continue.

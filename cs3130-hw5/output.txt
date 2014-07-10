@@ -1,0 +1,17 @@
+Who is the father of Bob?
+Jones Parent
+Who are all the sons of Jones?
+Bob, Dan Sibling,
+Who are all the brothers of Bob?
+Dan Sibling,
+
+Parent Node = Jones Parent
+Left Child = Bob
+Right Sibling = NULL
+Parent Node = Bob
+Left Child = Alex
+Right Sibling = Dan Sibling
+
+
+Process returned 0 (0x0)   execution time : 0.022 s
+Press any key to continue.

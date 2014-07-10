@@ -1,0 +1,7 @@
+1001 Kelvin Lee 1902.75
+1002 Bob Jones 3603.05
+1003 John Williams 4302.07
+1004 Steven Larry 3813.28
+1005 Larry Page 3926.12
+1006 Tim Cook 6957.33
+1007 Peter Thiel 2774.56

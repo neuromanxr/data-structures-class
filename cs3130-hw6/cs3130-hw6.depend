@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1402021448 source:c:\temp\beginning_programming-cpp\cs3130-hw6\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<assert.h>
+	<algorithm>
+
